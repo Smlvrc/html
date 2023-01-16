@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(224, 236, 247);
+}
+.first {
+    list-style: none;
+    display: flex;
+}
+ul li img{
+    border-radius: 100%;
+    width: 80px;
+}
+ul li{
+    margin: 20px;
+}
+header{
+   
+    background-color: rgb(150, 150, 101);
+}
+ .date{
+background-color: rgb(135, 107, 163);
+width: 40px;
+padding: 6px;
+margin-right: 10px;
+}
+
+.thesecondone{
+    margin-top: 40px;
+}
+
+.Skills{
+    background-color: rgb(189, 102, 102);
+}
+
+.Experience{
+    border: 3px solid red;
+    width: 500px;
+    background-color: rgb(229, 196, 196);
+  
+}
+.thefirstone{
+    padding: 10px;
+}
+.education{
+    width: 500px;
+background-color: rgb(196, 185, 207);
+}
+.ixtisas{
+    font-family: 'Roboto', sans-serif;
+}
